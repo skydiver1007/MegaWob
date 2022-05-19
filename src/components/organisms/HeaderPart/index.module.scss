@@ -1,0 +1,52 @@
+.logo {
+    width: 100%;
+    height: auto;
+}
+
+.menu_list {
+    margin-left: 56px;
+
+    a {
+        margin-right: 48px;
+        font-size: 0.875rem !important;
+    }
+}
+
+.wallet {
+    padding: 8px 16px !important;
+
+    i {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 1599px) {}
+
+@media only screen and (max-width: 1439px) {}
+
+@media only screen and (max-width: 1365px) {}
+
+@media only screen and (max-width: 1279px) {}
+
+@media only screen and (max-width: 1023px) {}
+
+@media only screen and (max-width: 767px) {
+    .logo {
+        width: 170px;
+        height: auto;
+    }
+
+    .wallet {
+        padding: 8px 16px !important;
+
+        i {
+            display: none;
+        }
+    }
+}
+
+@media only screen and (max-width: 639px) {}
+
+@media only screen and (max-width: 559px) {}
+
+@media only screen and (max-width: 479px) {}

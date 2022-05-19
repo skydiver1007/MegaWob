@@ -1,0 +1,30 @@
+.main {
+  background-image: url('../../../assets/images/background.png');
+
+  /* Full height */
+  height: 100%;
+  min-height: 100vh;
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+@media only screen and (min-width: 1599px) {}
+
+@media only screen and (max-width: 1439px) {}
+
+@media only screen and (max-width: 1365px) {}
+
+@media only screen and (max-width: 1279px) {}
+
+@media only screen and (max-width: 1023px) {}
+
+@media only screen and (max-width: 767px) {}
+
+@media only screen and (max-width: 639px) {}
+
+@media only screen and (max-width: 559px) {}
+
+@media only screen and (max-width: 479px) {}

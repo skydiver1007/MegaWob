@@ -1,0 +1,1 @@
+export const PRIMARY_LOGO = "images/logo-primary.png";

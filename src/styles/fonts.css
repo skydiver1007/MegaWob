@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Arial';
+	font-style: normal;
+	src: url('./../assets/fonts/Arialn.ttf')  format('truetype');
+}
+
+@font-face {
+	font-family: 'Forward';
+	font-style:normal;
+	src: url('./../assets/fonts/FFFFORWA.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Quick';
+	font-style:normal;
+	src: url('./../assets/fonts/Quicksand-Medium.ttf') format('truetype');
+}

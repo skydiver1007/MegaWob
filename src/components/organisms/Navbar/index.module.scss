@@ -1,0 +1,56 @@
+.navbar {
+    height: 50px;
+    background-color: #de0025;
+    padding-left: 25px;
+    padding-right: 25px;
+    width: 100%;
+    display: flex;
+    max-width: 100%;
+    align-items: center;
+    box-shadow: 0px 5px 20px 0px #de0025;
+    // position: sticky;
+    // top: 0px;
+    // z-index: 1000;
+}
+
+.navlink_area {
+    display: flex;
+    width: 100%;
+    /* text-align: left; */
+    justify-content: space-between;
+}
+
+.navbarLink {
+    font-size: 15px;
+    padding: 15px 30px 15px 10px;
+    color: #ff002b;
+    margin-right: 30px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.navbar {
+    height: 50px;
+    border: none;
+}
+
+
+.navMenu {
+    display: grid;
+    position: absolute;
+    top: 50px;
+    left: 0px;
+    background-color: #000000;
+    align-items: center;
+    padding: 15px 20px;
+    z-index: 99;
+}
+
+.custom_btn {
+    border-radius: 0px !important;
+    background-color: #000000 !important;
+    height: 40px !important;
+    // color: #000000 !important;
+}
+
+@media only screen and (max-width: 1024px) {}
